@@ -35,3 +35,7 @@ void draw()
   line(629,590, 629, 790);
   line(150, 690,725,690);//
 }
+
+void mouseClicked(){
+  println(mouseX, mouseY);
+}

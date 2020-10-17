@@ -1,2 +1,5 @@
 class ParkingLot {
+  ParkingLot(){
+    
+  }
 }

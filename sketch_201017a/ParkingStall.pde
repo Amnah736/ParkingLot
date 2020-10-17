@@ -1,0 +1,4 @@
+class ParkingStall{
+  int [] stalls;
+  
+}

@@ -6,7 +6,7 @@ void setup()
 
 void draw()
 {
-
+  background(34,139,34);
   rect(100, 100,1350, 750);//big recta
   rect(150, 150, 575, 200);//mini 1
   rect(150, 370, 575, 200);//mini 2
@@ -34,4 +34,5 @@ void draw()
   line(533,590, 533, 790);
   line(629,590, 629, 790);
   line(150, 690,725,690);//
+  
 }

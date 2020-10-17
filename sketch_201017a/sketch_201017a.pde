@@ -7,7 +7,9 @@ void setup()
 void draw()
 {
   background(34,139,34);
+  fill(128,128,128);
   rect(100, 100,1350, 750);//big recta
+  fill(144,238,144);
   rect(150, 150, 575, 200);//mini 1
   rect(150, 370, 575, 200);//mini 2
   rect(150, 370, 575, 200);//mini 3
